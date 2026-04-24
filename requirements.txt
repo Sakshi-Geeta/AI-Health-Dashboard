@@ -1,11 +1,11 @@
 streamlit
 numpy
-tensorflow
-PIL
-plotly.express
+tensorflow==2.15.0
+Pillow
+plotly
 datetime
 io
 re
 openai
-reportlab.platypus
+reportlab
 reportlab.lib.styles
